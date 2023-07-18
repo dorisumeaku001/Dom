@@ -1,0 +1,379 @@
+.sectionallpic {
+    background-image: url("Plants-for-Home.jpeg");
+    background-size: cover;
+    background-attachment:scroll;
+    
+
+}
+
+.header h1 {
+    font-weight: 200px;
+    color: green;
+    padding-left: 20px;
+    float: left;
+    font-size: 40px;
+
+    
+}
+.navbar {
+    float: right;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li  {
+    display:inline-block;
+    margin-left: 70px;
+    padding-top: 25px;
+    padding-right: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: green;
+    font-weight: 100;
+    font-size: small;
+    text-transform: uppercase;
+}
+
+.navbar a :hover {
+    color:orange;
+}
+  
+.section1 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.section1 p {
+    color: rgb(35, 67, 35);
+    font-weight: 550px;
+    color: green;
+    padding-top: 20px;
+}
+
+.section1 h2 {
+    color:rgba(216, 105, 30, 0.829);
+    font-weight: 1200px;
+    font-size: 60px;
+}
+
+#button1 a {
+    color: green;
+    font-weight: 500px;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+#button1 a :hover {
+    color: rgba(216, 105, 30, 0.829);
+}
+
+.section2 {
+    color: green;
+
+}
+
+.plantimage {
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 20px;
+    padding-bottom: 75px;
+}
+
+#button2 {
+    padding-left: 1200px;
+    padding-top: 50px;
+
+}
+
+#button2 a {
+    color: white;
+    background-color: green;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    text-decoration: none;
+    font-weight: 200;
+    
+}
+
+.sec2head h1 {
+    padding-left: 150px;
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: serif;
+}
+
+#button3 {
+    padding-bottom: 30px;
+}
+
+#button3 a {
+    color: white;
+    background-color: green;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-weight: 500px;
+}
+
+#button4 {
+    float: right;
+
+}
+
+#button4 a {
+    color: white;
+    background-color: green;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-weight: 500px;
+}
+
+#button5 {
+    float: right;
+}
+
+#button5 a {
+    color: white;
+    background-color: green;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-weight: 500px;
+}
+
+#button6 {
+    float: right;
+}
+
+#button6 a {
+    color: white;
+    background-color: green;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-weight: 500px;
+}
+
+#button7 {
+    float: right;
+}
+
+#button7 a {
+    color: white;
+    background-color: green;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-weight: 500px;
+}
+
+#button8 {
+    float: right;
+}
+
+#button8 a {
+    color: white;
+    background-color: green;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-weight: 500px;
+}
+
+.section3 {
+    text-align: center;
+}
+
+.section3 h1 {
+     font-weight: 900;
+     font-size: 40px;
+     color: green;
+     padding-left: 20px;
+}
+
+.section3 p {
+    text-align: center;
+}
+
+.section4 {
+    background-color: rgb(13, 30, 13);
+    padding-left: 0px;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 50px;
+}
+
+.navbar2 ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar2 li  {
+    display:inline-block;
+    margin-left: 70px;
+    padding-top: 25px;
+    padding-right: 20px;
+}
+
+.navbar2 a {
+    text-decoration: none;
+    color: rgba(245, 245, 245, 0.948);
+    font-weight: 100;
+    font-size: small;
+    text-transform: uppercase;
+}    
+
+.section4 h2 {
+    color: whitesmoke;
+}
+
+#copy {
+    color: whitesmoke;
+}
+
+.section4 form {
+
+}
+
+input[type=subscribe] {
+    background-color: green;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}  
+
+input[type=text] {
+    background-color:white;
+    color: rgb(117, 115, 115);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+
+  .fa-facebook {
+    color: white;
+  }
+  
+  .fa-twitter {
+    color: white;
+  }
+
+  .fa-instagram {
+    color: white;
+  }
+
+  .plus-minus-input {
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+
+  }
+  
+  .plus-minus-input .input-group-field {
+    text-align: center;
+    margin-left: 0.2rem;
+    margin-right: 0.5rem;
+    padding: 0.5em;
+    background-color: green;
+    color: white;
+  }
+  
+  .plus-minus-input .input-group-field::-webkit-inner-spin-button,
+  .plus-minus-input .input-group-field ::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+            appearance: none;
+  }
+  
+  .plus-minus-input .input-group-button .circle {
+    border-radius: 1%;
+    padding: 0.10em 0.8em;
+    color: black;
+
+}
+
+#input-el {
+    width: 10%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+    margin-bottom: 4px;
+    float: right;
+}
+
+button {
+    background: #5f9341;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #5f9341;
+    font-weight: bold;
+}
+
+
+#delete-btn {
+    background: white;
+    color: #5f9341;
+    float: right;
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #5f9341;
+}
+
+
+
